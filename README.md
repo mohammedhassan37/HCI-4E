@@ -654,6 +654,25 @@ R18: A “Swap This” feature. Scan a product and immediately see a more sustai
 |  | Animal Cruelty |
 |  | Organic |
 
+<a id="q12i"></a>
+## Question 12: What type of social features would motivate you? - collaboration, competition, sharing achievements, or none (interview). [Back to Top](#top)
+
+### Categories
+
+| Category            | Codes                    |
+|--------------------|-------------------------|
+| Rewards/Achievements | Points                  |
+|                     | Vouchers                |
+|                     | Rewards                 |
+| Achievement Sharing | Sharing Progress        |
+|                     | Private reports         |
+| Collaboration       | Group challenges        |
+|                     | Shared challenges       |
+| Competitive         | Leaderboards            |
+|                     | Outperforming others    |
+|                     | Friendly competitions   |
+|                     | Encouragement           |
+
 <a id="cluster1"></a>
 ## Cluster 1 – Coding Table (interviews) [Back to Top](#top)
 
