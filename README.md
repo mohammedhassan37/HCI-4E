@@ -32,6 +32,9 @@ For ease of use, we recommend you use the table of contents, and on each main co
 - [Question 13 – Discouragement Factors](#q13q)
 - [Question 14 – Sustainability Score Information](#q14q)
 - [Cluster 1 – Coding Table (interviews)](#cluster1)
+- [Cluster 2 – Coding Table (interviews)](#cluster2)
+
+
 
 # Questionnaire
 
@@ -672,3 +675,16 @@ R18: A “Swap This” feature. Scan a product and immediately see a more sustai
 |  | Less packaging | R3 R8 R10 | Q3 Q4 |
 
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/fe1beab5-752a-44e4-bc47-91c751e216c0" />
+
+<a id="cluster2"></a>
+
+## Cluster 2 – Coding Table (interviews) [Back to Top](#top)
+| Raw Quote | Initial Code | Final Theme |
+|----------|--------------|------------|
+| “Too many options to pick from” | Choice overload | Decision Uncertainty |
+| “I wasn’t sure if it was verified” | Distrust of claims | Information Ambiguity |
+| “Price decides the purchase” | Price priority | Cost Dominance |
+| “I feel guilty” | Guilt | Emotional Friction |
+| “Show a red/green rating” | Desire for simple scoring | Simplified Scoring Preference |
+
+
