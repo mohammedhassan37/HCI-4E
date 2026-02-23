@@ -39,7 +39,7 @@ The link to our questionnaire is [Here( Just Click This)](https://docs.google.co
 
 # Interview 
 
-# 1. At what points during your shopping do you feel most uncertain or need more information (Qualitative: Identifies intervention opportunities)[Back to Top](#top)
+# 1. At what points during your shopping do you feel most uncertain or need more information (Qualitative: Identifies intervention opportunities) [Back to Top](#top)
 
 R1: Looking at purchasing new products on the shelf which I have not previously seen before.   
 
@@ -154,7 +154,7 @@ R17: Last week I tried to buy more plant-based meals. I compared two brands of o
 
 R18: Recently I was buying chicken and wasn’t sure which label meant better animal welfare. One pack said, “RSPCA Assured,” another said, “British farmed,” and another was organic but much more expensive. I wasn’t clear what the real differences were in terms of welfare or environmental impact. I ended up standing there reading the packaging for a few minutes and still felt unsure, so I chose the mid-priced one and hoped it was a reasonable compromise. 
 
-# 4. When you think you've made a sustainable choice, what information usually helps you feel confident? (Qualitative: mental models)  
+# 4. When you think you've made a sustainable choice, what information usually helps you feel confident? (Qualitative: mental models)  [Back to Top](#top)
 
 R1: If product included certain words such as organic, as it makes me feel that it was ethically grown.    
 
@@ -191,7 +191,7 @@ R17: Clear certifications, like Fairtrade or Rainforest Alliance. Also, carbon f
 
 R18: Independent verification. If the app cited credible sources or showed lifecycle impact data, I’d trust it more. 
 
-# 5. Imagine you're in a supermarket right now - what would make you reach for your phone to check sustainability information? (Qualitative: triggers for app use)  
+# 5. Imagine you're in a supermarket right now - what would make you reach for your phone to check sustainability information? (Qualitative: triggers for app use)  [Back to Top](#top)
 
 R1: If I had two products the same, different brands, similar price, and I just felt that I wanted to compare the two to see which was more sustainable (e.g if product was grown in UK, not an import).  
 
@@ -228,7 +228,7 @@ R17: If I saw two similar products and one claimed to be eco-friendly but didn�
 
 R18: If I saw a sustainability claim I didn’t recognise. Or if I was making a bulk purchase and wanted to feel responsible about it. 
 
-# 6. If this app disappeared tomorrow, how much would it impact your ability to shop sustainably? (Quantitative: perceived usefulness)  
+# 6. If this app disappeared tomorrow, how much would it impact your ability to shop sustainably? (Quantitative: perceived usefulness)  [Back to Top](#top)
 
 R1: Yes it would, as the app provides quick information from one source instead of having to go on the internet and search individually.  
 
@@ -264,7 +264,7 @@ R16: Not much. I wouldn’t rely on it unless it also makes shopping faster/easi
 R17: Probably a moderate impact, although I do care, without easy access to information I’d probably default to price and convenience.   
 
 R18: High impact, but I would still try and shop sustainably. 
-# 7. When you scan a product, what is the first thing you expect the app to show you, and why? (Qualitative: priority information)  
+# 7. When you scan a product, what is the first thing you expect the app to show you, and why? (Qualitative: priority information)  [Back to Top](#top)
 
 R1: Country of origin that the product was manufactured or grown, as I would like to support manufacturers or farmers in the UK.  
 
@@ -301,7 +301,7 @@ R17: A simple sustainability score, because I don’t want to read a lot of text
 
 R18: A breakdown of carbon footprint, animal welfare rating and package recyclability. 
 
-# 8. How would you prefer sustainability information to be presented - visually, numerically, textually or a mix? (Qualitative + Quantitative: preference strength)  
+# 8. How would you prefer sustainability information to be presented - visually, numerically, textually or a mix? (Qualitative + Quantitative: preference strength)  [Back to Top](#top)
 
 R1: Mix of visual and numbers. (e.g., map where product was manufactured)  
 
@@ -338,7 +338,7 @@ R17: A mix preferably. I would like a visual score, quick bullet points and an o
 
 R18: Layered information. A summary score at the top, detailed data below and a graph for impact comparisons. 
 
-# 9. What emotional reactions do you experience when trying to shop sustainably (e.g, guilt, pride, frustration)? (Quantitative: behaviour-change likelihood)  
+# 9. What emotional reactions do you experience when trying to shop sustainably (e.g, guilt, pride, frustration)? (Quantitative: behaviour-change likelihood)  [Back to Top](#top)
 
 R1:Mostly guilt if it comes down to the price which results in not purchasing sustainably.  
 
@@ -375,7 +375,7 @@ R17: Guilt if I choose the cheaper, less sustainable option. Frustration when I 
 
 R18: Concern about climate change. Responsibility toward my children. 
 
-# 10. How likely are you to change your shopping habits if the app showed your long-term environmental impact? (Quantitative: behavioural-change likelihood)  
+# 10. How likely are you to change your shopping habits if the app showed your long-term environmental impact? (Quantitative: behavioural-change likelihood)  [Back to Top](#top)
 
 R1: That could sway me and make a difference to my habits. I would say that it would likely sway me if there were stats about the difference it could make.  
 
@@ -412,7 +412,7 @@ R17: Quite likely. If I could see “Your choices saved X kg of CO₂ this month
 
 R18: Very high. If the app tracked long-term impact trends over time, I’d adjust purchasing patterns. 
 
-# 11. How do you feel about sustainability being a social or competitive activity? (Qualitative: attitudes toward gamification)  
+# 11. How do you feel about sustainability being a social or competitive activity? (Qualitative: attitudes toward gamification)  [Back to Top](#top)
 
 R1: I don't see it as being competitive, however I see it as a social activity.  
 
@@ -449,7 +449,7 @@ R17: I’m not really into competition. It might make me anxious. I’d prefer s
 
 R18: Friendly competition could work, especially between families. But it shouldn’t feel like public shaming. 
 
-# 12. What type of social features would motivate you - collaboration, competition, sharing achievements, or none. (Qualitative + Quantitative: preference strength)  
+# 12. What type of social features would motivate you - collaboration, competition, sharing achievements, or none. (Qualitative + Quantitative: preference strength)  [Back to Top](#top)
 
 R1: Collaboration and working together, I think.   
 
@@ -486,7 +486,7 @@ R17: Sharing achievements occasionally, maybe small rewards and not leaderboards
 
 R18: Monthly sustainability reports, family challenges and achievements. Not public leaderboards. 
 
-# 13. What personal needs or preferences should the app adapt to, in order to support you better? (Qualitative: accessibility + personalisation)  
+# 13. What personal needs or preferences should the app adapt to, in order to support you better? (Qualitative: accessibility + personalisation)  [Back to Top](#top)
 
 R1: Bigger font, light mode. Speech to text/text to speech as this would make it feel more personalised.  
 
@@ -523,9 +523,9 @@ R17: Student budget. Dietary preferences (vegetarian). Time constraints, I don�
 
 R18: Family-sized shopping. Time efficiency. Allergy filtering. 
 
-# 14. If you could design one feature that would make sustainable shopping effortless, what would it be? (Qualitative: innovation insight)  
+# 14. If you could design one feature that would make sustainable shopping effortless, what would it be? (Qualitative: innovation insight)  [Back to Top](#top)
 
-R1: If you were in a shop and were on a budget of, say 50 pounds, you could enter this in the app, and it would provide you products that fit within that price range and match the criteria set that you have provided. And provide you with location within the shop (e.g. aisle).  
+R1: If you were in a shop and were on a budget of, say 50 pounds, you could enter this in the app, and it would provide you products that fit within that price range and match the criteria set that you have provided. And provide you with location within the shop (e.g. aisle). 
 
 R2: Categories of products such as fruit, dairy, condiments and the cheapest options within those categories that are available.  
 
@@ -561,7 +561,7 @@ R17: A feature that suggests the most sustainable option within my budget automa
 R18: A “Swap This” feature. Scan a product and immediately see a more sustainable alternative in the same store. 
 
 
-## Question 13: What would discourage you from using an app like this?
+## Question 13: What would discourage you from using an app like this?(questionnaire) [Back to Top](#top)
 
 ### Categories
 
@@ -583,7 +583,7 @@ R18: A “Swap This” feature. Scan a product and immediately see a more sustai
 | Performance | Performance issues |
 |  | Unreliable |
 
-## Question 14: What information would you like to see when looking for the sustainability score of an item?
+## Question 14: What information would you like to see when looking for the sustainability score of an item?(questionnaire) [Back to Top](#top)
 
 ### Categories
 
@@ -625,7 +625,7 @@ R18: A “Swap This” feature. Scan a product and immediately see a more sustai
 |  | Animal Cruelty |
 |  | Organic |
 
-## Cluster 1 – Coding Table
+## Cluster 1 – Coding Table (interviews) [Back to Top](#top)
 
 | Sub theme | Codes | Example participants | Related questions |
 |------------|--------|----------------------|-------------------|
