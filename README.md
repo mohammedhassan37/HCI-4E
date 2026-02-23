@@ -4,12 +4,15 @@
 
 Below is Group 4E's appendices. The full documentation of our research and analysis is provided below. It will include raw questions and their compiled participant responses combined. Into a singluar section for clarity. It will also include a link to our questionnaire. Which will allow you to browse our survery, and their corresponding responses. We also have provided you our thematic coding tables, and maps. Inside, the other files, you have the graphs from the questionnaires all compiled. 
 
+For ease of use, we recommend you use the talbe of contents,  and on each main content heading there is a way back. 
+
 # Questionnaire
 
 The link to our questionnaire is [Here( Just Click This)](https://docs.google.com/forms/d/1kFbqzkmzLz3TK2f4i5n2oO980okAMEqbIWXD_-HNmJA/edit?ts=69945940&pli=1)
 
 ## Table of Contents
 
+ <a id="top"></a>
 - [Questionnaire](#questionnaire)
 - [Interview](#interview)
 
@@ -36,7 +39,7 @@ The link to our questionnaire is [Here( Just Click This)](https://docs.google.co
 
 # Interview 
 
-# 1. At what points during your shopping do you feel most uncertain or need more information (Qualitative: Identifies intervention opportunities)   
+# 1. At what points during your shopping do you feel most uncertain or need more information (Qualitative: Identifies intervention opportunities)[Back to Top](#top)
 
 R1: Looking at purchasing new products on the shelf which I have not previously seen before.   
 
@@ -77,7 +80,7 @@ R18: When buying meat and fish. I’m never sure which labels mean high animal w
 
  
 
-# 2. How often do you compare products for reasons other than price (e.g, health, ethics, sustainability)? (Quantitative: frequency measure)  
+# 2. How often do you compare products for reasons other than price (e.g, health, ethics, sustainability)? (Quantitative: frequency measure)  [Back to Top](#top)
 
 R1: Twice a week, or whenever I go shopping.  
 
@@ -114,7 +117,7 @@ R17: Maybe occasionally. Usually if it’s something like eggs, but if I’m in 
 
 R18: Very often, I usually look at the health information. 
 
-# 3. Tell me about a recent moment when you tried to shop sustainably. What happened? (Qualitative: real-world behaviour)  
+# 3. Tell me about a recent moment when you tried to shop sustainably. What happened? (Qualitative: real-world behaviour)  [Back to Top](#top)
 
 R1: I placed an online order with a company that sources its food from local farms, I was very disappointed when food was delivered, as the cabbage had started to go off.   
 
