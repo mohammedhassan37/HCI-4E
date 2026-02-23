@@ -8,6 +8,32 @@ Below is Group 4E's appendices. The full documentation of our research and analy
 
 The link to our questionnaire is [Here( Just Click This)](https://docs.google.com/forms/d/1kFbqzkmzLz3TK2f4i5n2oO980okAMEqbIWXD_-HNmJA/edit?ts=69945940&pli=1)
 
+## Table of Contents
+
+- [Questionnaire](#questionnaire)
+- [Interview](#interview)
+
+### Interview Questions
+- [1. Uncertainty During Shopping](#1-at-what-points-during-your-shopping-do-you-feel-most-uncertain-or-need-more-information-qualitative-identifies-intervention-opportunities)
+- [2. Product Comparison Frequency](#2-how-often-do-you-compare-products-for-reasons-other-than-price-eg-health-ethics-sustainability-quantitative-frequency-measure)
+- [3. Recent Sustainable Shopping Moment](#3-tell-me-about-a-recent-moment-when-you-tried-to-shop-sustainably-what-happened-qualitative-real-world-behaviour)
+- [4. Confidence in Sustainable Choices](#4-when-you-think-youve-made-a-sustainable-choice-what-information-usually-helps-you-feel-confident-qualitative-mental-models)
+- [5. Triggers for App Use](#5-imagine-youre-in-a-supermarket-right-now---what-would-make-you-reach-for-your-phone-to-check-sustainability-information-qualitative-triggers-for-app-use)
+- [6. App Impact on Sustainable Shopping](#6-if-this-app-disappeared-tomorrow-how-much-would-it-impact-your-ability-to-shop-sustainably-quantitative-perceived-usefulness)
+- [7. First Expected Information When Scanning](#7-when-you-scan-a-product-what-is-the-first-thing-you-expect-the-app-to-show-you-and-why-qualitative-priority-information)
+- [8. Preferred Information Presentation](#8-how-would-you-prefer-sustainability-information-to-be-presented---visually-numerically-textually-or-a-mix-qualitative--quantitative-preference-strength)
+- [9. Emotional Reactions](#9-what-emotional-reactions-do-you-experience-when-trying-to-shop-sustainably-eg-guilt-pride-frustration-quantitative-behaviour-change-likelihood)
+- [10. Behaviour Change Likelihood](#10-how-likely-are-you-to-change-your-shopping-habits-if-the-app-showed-your-long-term-environmental-impact-quantitative-behavioural-change-likelihood)
+- [11. Sustainability as Social/Competitive](#11-how-do-you-feel-about-sustainability-being-a-social-or-competitive-activity-qualitative-attitudes-toward-gamification)
+- [12. Preferred Social Features](#12-what-type-of-social-features-would-motivate-you---collaboration-competition-sharing-achievements-or-none-qualitative--quantitative-preference-strength)
+- [13. Personalisation & Accessibility Needs](#13-what-personal-needs-or-preferences-should-the-app-adapt-to-in-order-to-support-you-better-qualitative-accessibility--personalisation)
+- [14. Ideal Feature for Effortless Shopping](#14-if-you-could-design-one-feature-that-would-make-sustainable-shopping-effortless-what-would-it-be-qualitative-innovation-insight)
+
+### Analysis Sections
+- [Question 13 – Discouragement Factors](#question-13-what-would-discourage-you-from-using-an-app-like-this)
+- [Question 14 – Sustainability Score Information](#question-14-what-information-would-you-like-to-see-when-looking-for-the-sustainability-score-of-an-item)
+- [Cluster 1 – Coding Table](#cluster-1--coding-table)
+
 # Interview 
 
 # 1. At what points during your shopping do you feel most uncertain or need more information (Qualitative: Identifies intervention opportunities)   
