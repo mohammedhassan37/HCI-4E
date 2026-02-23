@@ -530,3 +530,90 @@ R16: Instantly show top 3 alternatives ranked by eco-score and price difference
 R17: A feature that suggests the most sustainable option within my budget automatically when I scan something. 
 
 R18: A “Swap This” feature. Scan a product and immediately see a more sustainable alternative in the same store. 
+
+
+## Question 13: What would discourage you from using an app like this?
+
+### Categories
+
+| Category | Codes |
+|----------|--------|
+| Economic Factors | High prices |
+|  | Unstable prices |
+|  | Paid app |
+| Usability/Interface Issues | Usability issues |
+|  | Interface issues |
+|  | Complicated to use |
+|  | Missing features |
+|  | Advertisements |
+|  | Scanning issues |
+| Information/Privacy Issues | False information |
+|  | Unreliable |
+|  | Safety concerns |
+|  | Privacy concerns |
+| Performance | Performance issues |
+|  | Unreliable |
+
+## Question 14: What information would you like to see when looking for the sustainability score of an item?
+
+### Categories
+
+| Category | Codes |
+|----------|--------|
+| Environmental Factors | Carbon footprint |
+|  | Recycling information |
+|  | Recycling methods |
+|  | Reusability |
+|  | Packaging information |
+|  | Environmental factors |
+|  | Production methods |
+|  | Land/water usage |
+|  | Natural sourcing |
+| Scoring System | Explanation of score |
+|  | Numerical value |
+|  | Alternatives/recommendations |
+|  | Score ranking |
+|  | Efficiency of system |
+|  | Reliability of system |
+|  | Simple visuals |
+| Product Origin | Product origin |
+|  | Production process |
+|  | Packaging origin |
+|  | Sourcing information |
+| Economic Factors | Price |
+|  | Price comparisons |
+|  | Availability |
+|  | Affordability |
+| Quality and Health | Quality |
+|  | Health/nutrition |
+|  | Shelf life |
+|  | Ingredients |
+| Ethical Practices | Local sourcing |
+|  | Ethical sourcing |
+|  | Ethical practices |
+|  | Ethical labour practices |
+|  | Fair trade |
+|  | Animal Cruelty |
+|  | Organic |
+
+## Cluster 1 – Coding Table
+
+| Sub theme | Codes | Example participants | Related questions |
+|------------|--------|----------------------|-------------------|
+| Uncertainty during product comparison | Choosing similar products | R3 R7 | Q1 |
+|  | Unfamiliar products | R1 R4 R9 | Q1 |
+|  | Overwhelmed from too many products | R5 | Q1 |
+|  | Product out of stock | R4 | Q1 |
+|  | Unaware what is sustainable | R8 | Q1 |
+| Ambiguity in claims | Vague claims | R12 R13 | Q1 |
+|  | Unclear packaging | R11 R12 | Q1 |
+|  | Unsure about sugar free claims | R14 | Q1 |
+|  | Lack of clear information | R4 | Q3 |
+| dependence on simple sustainability claims | Fair trade label | R3 R9 | Q4 |
+|  | Recycling badge | R2 R8 | Q4 |
+|  | Organic wording | R1 | Q4 |
+|  | Local source claim | R6 R14 | Q3 Q4 |
+|  | Less packaging | R3 R8 R10 | Q3 Q4 |
+
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/fe1beab5-752a-44e4-bc47-91c751e216c0" />
+
